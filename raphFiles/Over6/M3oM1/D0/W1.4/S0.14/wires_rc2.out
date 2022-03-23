@@ -1,0 +1,16 @@
+/import/programs/synopsys/raphael/S-2021.06/raphael_2021.06.0/linux64/bin/rc2x -n -x -z -o wires_rc2.out wires 
+
+ *** POTENTIAL CALCULATION [Coulomb / (1e-06*m)]
+
+ Charge on M1__GND =  -6.281903e-17
+ Charge on M3_w1 =  -1.823494e-18
+ Charge on M3_w2 =  -8.745083e-19
+ Charge on M3_w3 =  -1.209948e-16
+ Charge on M3_w4 =   3.100082e-16
+ Charge on M3_w5 =  -1.213165e-16
+ Charge on M3_w6 =  -2.180046e-18
+
+regrid   nx   ny     total   iter  lin_tol.   rgd_tol
+     0   64  144      9216    23 6.777e-05  N.A. 
+     1   79  125      9875    16 9.911e-05  2.073e+00 % 
+regrid tolerance : 2.07e+00 %
