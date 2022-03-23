@@ -1,0 +1,12 @@
+* 8.23x0.2x2.0um box
+* Layer of box: Metal 2_5
+* face name	| four coordinates of one face
+*
+* front face
+Q dielectric_M2		0.0 0.0 0.0  0.0 0.2 0.0  8.23 0.2 0.0  8.23 0.0 0.0
+* right face
+Q dielectric_M2		8.23 0.0 0.0  8.23 0.2 0.0  8.23 0.2 2.0  8.23 0.0 2.0
+* back face
+Q dielectric_M2		0.0 0.0 2.0  8.23 0.0 2.0  8.23 0.2 2.0  0.0 0.2 2.0
+* left face
+Q dielectric_M2		0.0 0.0 0.0  0.0 0.0 2.0  0.0 0.2 2.0  0.0 0.2 0.0

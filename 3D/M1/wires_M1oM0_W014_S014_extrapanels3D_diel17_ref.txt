@@ -1,0 +1,4 @@
+0 Refined FastCap file derived from wires_M1oM0_W014_S014_extrapanels3D.lst, referenced in list file wires_M1oM0_W014_S014_extrapanels3D_ref.lst
+*
+T diel17  -10 0.75 12  -5.91 0.75 10  -10 0.75 10
+T diel17  -10 0.75 12  -5.91 0.75 12  -5.91 0.75 10

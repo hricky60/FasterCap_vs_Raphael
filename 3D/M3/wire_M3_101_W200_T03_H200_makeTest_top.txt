@@ -1,0 +1,24 @@
+* 20.0x0.3x20.0um box
+* Layer of box: Metal 3_101
+* face name	| four coordinates of one face
+*
+* top face
+Q wire_M3		0.0 0.3 0.0  0.0 0.3 20.0  20.0 0.3 20.0  20.0 0.3 0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

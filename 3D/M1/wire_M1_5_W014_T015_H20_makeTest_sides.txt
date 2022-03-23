@@ -1,0 +1,29 @@
+* 0.14x0.15x2.0um box
+* Layer of box: Metal 1_5
+* face name	| four coordinates of one face
+*
+* front face
+Q wire_M1		0.0 0.0 0.0  0.0 0.15 0.0  0.14 0.15 0.0  0.14 0.0 0.0
+* right face
+Q wire_M1		0.14 0.0 0.0  0.14 0.15 0.0  0.14 0.15 2.0  0.14 0.0 2.0
+* back face
+Q wire_M1		0.0 0.0 2.0  0.14 0.0 2.0  0.14 0.15 2.0  0.0 0.15 2.0
+* left face
+Q wire_M1		0.0 0.0 0.0  0.0 0.0 2.0  0.0 0.15 2.0  0.0 0.15 0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

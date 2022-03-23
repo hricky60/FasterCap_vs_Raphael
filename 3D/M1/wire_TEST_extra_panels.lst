@@ -1,0 +1,79 @@
+* 
+*
+*
+* Dielectrics
+*
+*              name                          |   outperm inperm   |  offset coordinates  |  dielectric reference
+*
+D dielectric_M1_3_W200_T005_H200_sides.txt       1.0 4.3e-6          0.0 0.0 0.0            0.1 0.01 0.1 - 		 0xf000002f
+*
+D dielectric_M1_3_W200_T005_H100_bottom.txt      1.0 4.3e-6          0.0 0.0 0.0            0.1 0.01 0.1 - 		 0xf000002f
+D dielectric_M1_3_W200_T005_H100_top.txt         4.9e-6 4.3e-6       0.0 0.0 0.0            0.1 0.01 0.1 - 		 0xf000002f
+*
+D dielectric_M1_3_W100_T005_H20_bottom.txt		 1.0 4.3e-6          0.0 0.0 10.0           0.1 0.01 10.1 -      0xf000002f
+D dielectric_M1_3_W100_T005_H20_top.txt		     4.9e-6 4.3e-6       0.0 0.0 10.0           0.1 0.01 10.1 -      0xf000002f
+*
+D dielectric_M1_3_W014_T005_H20_bottom.txt		 1.0 4.3e-6          10.14 0.0 10.0         10.2 0.01 10.1 -     0xf000002f
+D dielectric_M1_3_W014_T005_H20_top.txt		     4.9e-6 4.3e-6       10.14 0.0 10.0         10.2 0.01 10.1 -     0xf000002f
+*
+D dielectric_M1_3_W958_T005_H20_bottom.txt		 1.0 4.3e-6          10.42 0.0 10.0         10.5 0.01 10.1 -     0xf000002f
+D dielectric_M1_3_W958_T005_H20_top.txt		     4.9e-6 4.3e-6       10.42 0.0 10.0         10.5 0.01 10.1 -     0xf000002f
+*
+D dielectric_M1_3_W200_T005_H80_bottom.txt       1.0 4.3e-6          0.0 0.0 12.0           0.1 0.01 12.1 - 	 0xf000002f
+D dielectric_M1_3_W200_T005_H80_top.txt          4.9e-6 4.3e-6       0.0 0.0 12.0           0.1 0.01 12.1 - 	 0xf000002f
+*
+*
+*
+D dielectric_M1_3_W200_T005_H200_sides.txt       1.0 4.9e-6          0.0 0.05 0.0            0.1 0.06 0.1 - 	0x0f00002f
+*
+D dielectric_M1_3_W200_T005_H100_top.txt         4.1e-6 4.9e-6       0.0 0.05 0.0            0.1 0.06 0.1 - 	0x0f00002f
+*
+D dielectric_M1_3_W100_T005_H20_top.txt		     4.1e-6 4.9e-6       0.0 0.05 10.0           0.1 0.06 10.1 -    0x0f00002f
+*
+D dielectric_M1_3_W014_T005_H20_top.txt		     4.1e-6 4.9e-6       10.14 0.05 10.0         10.2 0.06 10.1 -   0x0f00002f
+*
+D dielectric_M1_3_W958_T005_H20_top.txt		     4.1e-6 4.9e-6       10.42 0.05 10.0         10.5 0.06 10.1 -   0x0f00002f
+*
+D dielectric_M1_3_W200_T005_H80_top.txt          4.1e-6 4.9e-6       0.0 0.05 12.0           0.1 0.06 12.1 -    0x0f00002f
+*
+*
+*
+D dielectric_M1_5_W200_T015_H200_sides.txt       1.0 4.1e-6          0.0 0.1 0.0            0.1 0.11 0.1 - 	   0x00f0002f
+*
+D dielectric_M1_5_W200_T015_H100_top.txt         1.0 4.1e-6          0.0 0.1 0.0            0.1 0.11 0.1 - 	   0x00f0002f
+*
+D dielectric_M1_5_W100_T015_H20_top.txt		     1.0 4.1e-6          0.0 0.1 10.0           0.1 0.11 10.1 -    0x00f0002f
+*
+D dielectric_M1_5_W014_T015_H20_top.txt		     1.0 4.1e-6          10.14 0.1 10.0         10.2 0.11 10.1 -   0x00f0002f
+*
+D dielectric_M1_5_W958_T015_H20_top.txt		     1.0 4.1e-6          10.42 0.1 10.0         10.5 0.11 10.1 -   0x00f0002f
+*
+D dielectric_M1_5_W200_T015_H80_top.txt          1.0 4.1e-6          0.0 0.1 12.0           0.1 0.11 12.1 -    0x00f0002f
+*
+*
+*
+*D dielectric_M1_3_W200_T005_H200.txt             1.0 4.3e-6          0.0 0.0 0.0            0.1 0.01 0.1 -   0xf000002f
+*D dielectric_M1_4_W200_T005_H200.txt	          1.0 4.9e-6	      0.0 0.05 0.0           0.1 0.06 0.1 -   0x0f00002f
+*D dielectric_M1_5_W200_T015_H200.txt             1.0 4.1e-6          0.0 0.1 0.0            0.1 0.11 0.1 -	  0x00f0002f
+*
+*
+*
+* Metals
+*
+*              name                   |   outperm   |  offset coordinates
+*
+C wire_M1_3_W014_T005_H20_bottom.txt      1.0          10.0 0.0 10.0 +			0xf00fffaf
+C wire_M1_3_W014_T005_H20_sides.txt       4.3e-6       10.0 0.0 10.0 +			0xf00fffaf
+C wire_M1_3_W014_T005_H20_sides.txt       4.9e-6       10.0 0.05 10.0 +			0x0f0fffaf
+C wire_M1_5_W014_T015_H20_sides.txt       4.1e-6       10.0 0.1 10.0  +			0x00ffffaf
+C wire_M1_5_W014_T015_H20_top.txt         1.0          10.0 0.1 10.0			0x00ffffaf
+*
+*
+*
+C wire_M1_3_W014_T005_H20_bottom.txt      1.0          10.28 0.0 10.0 +			0xf00fffaf
+C wire_M1_3_W014_T005_H20_sides.txt       4.3e-6       10.28 0.0 10.0 +			0xf00fffaf
+C wire_M1_3_W014_T005_H20_sides.txt       4.9e-6       10.28 0.05 10.0 +		0x0f0fffaf
+C wire_M1_5_W014_T015_H20_sides.txt       4.1e-6       10.28 0.1 10.0  +		0x00ffffaf
+C wire_M1_5_W014_T015_H20_top.txt         1.0          10.28 0.1 10.0			0x00ffffaf
+*
+*     

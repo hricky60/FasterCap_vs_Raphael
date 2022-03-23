@@ -1,0 +1,65 @@
+* Refined FastCap file derived from wires_M1oM0_W014_S014_extrapanels3D.lst
+*
+* Total number of panels 5512
+*
+D wires_M1oM0_W014_S014_extrapanels3D_diel40_ref.txt  4.1e-006 1e-006  0.0 0.0 0.0  -9.99 1.16 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel39_ref.txt  4.9e-006 1e-006  0.0 0.0 0.0  -9.99 1.16 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel38_ref.txt  4.4e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.96 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel37_ref.txt  4.4e-006 1e-006  0.0 0.0 0.0  -9.99 0.96 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel36_ref.txt  4.9e-006 2.9e-006  0.0 0.0 0.0  -9.99 0.91 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel35_ref.txt  4.9e-006 1e-006  0.0 0.0 0.0  -9.99 0.91 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel34_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.76 12.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel33_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  0.64 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel32_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  0.36 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel31_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  0.08 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel30_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  -0.2 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel29_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  -0.48 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel28_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  -0.76 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel27_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.76 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel26_ref.txt  4.1e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.76 0.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel25_ref.txt  4.1e-006 1e-006  0.0 0.0 0.0  -9.99 0.76 0.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel24_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  -9.99 0.71 12.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel23_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  0.64 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel22_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  0.36 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel21_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  0.08 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel20_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  -0.2 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel19_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  -0.48 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel18_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  -0.76 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel17_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  -9.99 0.71 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel16_ref.txt  4.9e-006 4.1e-006  0.0 0.0 0.0  -9.99 0.71 0.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel15_ref.txt  4.9e-006 1e-006  0.0 0.0 0.0  -9.99 0.71 0.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel14_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.66 12.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel13_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  0.64 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel12_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  0.36 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel11_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  0.08 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel10_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  -0.2 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel9_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  -0.48 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel8_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  -0.76 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel7_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.66 10.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel6_ref.txt  4.3e-006 4.9e-006  0.0 0.0 0.0  -9.99 0.66 0.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel5_ref.txt  4.3e-006 1e-006  0.0 0.0 0.0  -9.99 0.66 0.1
+D wires_M1oM0_W014_S014_extrapanels3D_diel4_ref.txt  4.3e-006 1e-006  0.0 0.0 0.0  -9.99 0.31 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel3_ref.txt  7e-006 4.3e-006  0.0 0.0 0.0  -9.99 0.26 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel2_ref.txt  7e-006 1e-006  0.0 0.0 0.0  -9.99 0.26 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel1_ref.txt  4.1e-006 7e-006  0.0 0.0 0.0  -9.99 0.01 0.01
+D wires_M1oM0_W014_S014_extrapanels3D_diel0_ref.txt  4.1e-006 1e-006  0.0 0.0 0.0  -9.99 0.01 0.01
+C wires_M1oM0_W014_S014_extrapanels3D_g1_wire_M1_ref_0.txt  4.3e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g1_wire_M1_ref_1.txt  4.9e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g1_wire_M1_ref_2.txt  4.1e-006  0.0 0.0 0.0
+C wires_M1oM0_W014_S014_extrapanels3D_g2_wire_M1_ref_0.txt  4.3e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g2_wire_M1_ref_1.txt  4.9e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g2_wire_M1_ref_2.txt  4.1e-006  0.0 0.0 0.0
+C wires_M1oM0_W014_S014_extrapanels3D_g3_wire_M1_ref_0.txt  4.3e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g3_wire_M1_ref_1.txt  4.9e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g3_wire_M1_ref_2.txt  4.1e-006  0.0 0.0 0.0
+C wires_M1oM0_W014_S014_extrapanels3D_g4_wire_M1_ref_0.txt  4.3e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g4_wire_M1_ref_1.txt  4.9e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g4_wire_M1_ref_2.txt  4.1e-006  0.0 0.0 0.0
+C wires_M1oM0_W014_S014_extrapanels3D_g5_wire_M1_ref_0.txt  4.3e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g5_wire_M1_ref_1.txt  4.9e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g5_wire_M1_ref_2.txt  4.1e-006  0.0 0.0 0.0
+C wires_M1oM0_W014_S014_extrapanels3D_g6_wire_M1_ref_0.txt  4.3e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g6_wire_M1_ref_1.txt  4.9e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g6_wire_M1_ref_2.txt  4.1e-006  0.0 0.0 0.0
+C wires_M1oM0_W014_S014_extrapanels3D_g7_wire_M0_ref_0.txt  1e-006  0.0 0.0 0.0 +
+C wires_M1oM0_W014_S014_extrapanels3D_g7_wire_M0_ref_1.txt  4.1e-006  0.0 0.0 0.0

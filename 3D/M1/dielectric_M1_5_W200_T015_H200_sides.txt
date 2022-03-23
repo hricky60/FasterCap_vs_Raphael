@@ -1,0 +1,34 @@
+* 20.0x0.15x20.0um box
+* Layer of box: Metal 1_5
+* face name	| four coordinates of one face
+*
+* front face
+Q dielectric_M1		0.0 0.0 0.0  0.0 0.15 0.0  20.0 0.15 0.0  20.0 0.0 0.0
+* right face
+Q dielectric_M1		20.0 0.0 0.0  20.0 0.15 0.0  20.0 0.15 20.0  20.0 0.0 20.0
+* back face
+Q dielectric_M1		0.0 0.0 20.0  20.0 0.0 20.0  20.0 0.15 20.0  0.0 0.15 20.0
+* left face
+Q dielectric_M1		0.0 0.0 0.0  0.0 0.0 20.0  0.0 0.15 20.0  0.0 0.15 0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

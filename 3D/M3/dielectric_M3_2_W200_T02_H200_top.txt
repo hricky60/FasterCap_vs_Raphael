@@ -1,0 +1,33 @@
+* 20.0x0.2x20.0um box
+* Layer of box: Metal 3_2
+* face name	| four coordinates of one face
+*
+* top face
+Q dielectric_M3		0.0 0.2 0.0  0.0 0.2 20.0  20.0 0.2 20.0  20.0 0.2 0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
