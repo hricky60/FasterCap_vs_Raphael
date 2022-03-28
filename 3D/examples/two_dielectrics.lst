@@ -1,0 +1,26 @@
+* Two dielectrics stacked in free space. Bottom has a dielectric constant 4.1 and the other 4.9.
+* Both dielectrics of size 1x2x1um 
+*
+* NOTE: Dielectric constant given micro unit rather than dielectric and their offsets. This is necessary
+* for FasterCap to execute correctly
+*
+*
+*
+*
+*	name			    |	outperm inperm   |     offset coords    |    dielectric reference 
+*
+* Bottom Dielectric
+*
+D dielectric_W10_T10_H20_bottom.txt	1.0e-6 4.1e-6		0.0 0.0 0.0		0.1 0.1 0.1 -
+D dielectric_W10_T10_H20_sides.txt	1.0e-6 4.1e-6		0.0 0.0 0.0		0.1 0.1 0.1 -
+*
+*
+* Top-Bottom Dielectric Interface
+*
+D dielectric_W10_T10_H20_top.txt	4.9e-6 4.1e-6		0.0 0.0 0.0		0.1 0.1 0.1 -
+*
+*
+* Top Dielectric
+*
+D dielectric_W10_T10_H20_sides.txt	1.0e-6 4.9e-6		0.0 1.0 0.0		0.1 1.1 0.1 -
+D dielectric_W10_T10_H20_top.txt	1.0e-6 4.9e-6		0.0 1.0 0.0		0.1 1.1 0.1 -

@@ -1,0 +1,8 @@
+* 1.0x1.0x2.0um box
+*
+*
+* face name	|  four coordinates of one face
+*
+* bottom face
+*
+Q dielectric		0.0 0.0 0.0  1.0 0.0 0.0  1.0 0.0 2.0  0.0 0.0 2.0

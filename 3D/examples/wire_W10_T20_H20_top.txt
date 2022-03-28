@@ -1,0 +1,8 @@
+* 1.0x2.0x2.0um box
+*
+*
+*
+* face name	|	four coordinates of face
+*
+* top face
+Q wire			0.0 2.0 0.0  1.0 2.0 0.0  1.0 2.0 2.0  0.0 2.0 2.0

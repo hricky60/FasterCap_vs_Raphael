@@ -1,0 +1,11 @@
+* 1.0x1.0x2.0 um box
+*
+*
+* face name	| four coordinates of face
+*
+* front face
+Q dielectric		0.0 0.0 0.0  0.0 1.0 0.0  1.0 1.0 0.0  1.0 0.0 0.0
+* back face
+Q dielectric 		0.0 0.0 2.0  1.0 0.0 2.0  1.0 1.0 2.0  0.0 1.0 2.0
+* left face
+Q dielectric		0.0 0.0 0.0  0.0 0.0 2.0  0.0 1.0 2.0  0.0 1.0 0.0
