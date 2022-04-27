@@ -1,0 +1,6 @@
+0 20.0x1.0um box
+* Layer of box: Metal 0_0
+* face name	| coordinates of one segment
+*
+* top face
+S wire_M0		0.0 1.0  20.0 1.0
