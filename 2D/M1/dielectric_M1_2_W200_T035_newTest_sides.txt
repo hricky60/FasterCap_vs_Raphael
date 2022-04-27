@@ -1,0 +1,8 @@
+0 20.0x0.35um box
+* Layer of box: Metal 1_2
+* face name	| coordinates of one segment
+*
+* right face
+S dielectric_M1		20.0 0.0  20.0 0.35
+* left face
+S dielectric_M1		0.0 0.0  0.0 0.35

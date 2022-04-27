@@ -1,0 +1,18 @@
+********************************************************************************
+Product   :  Fast Slim Tree
+CADENCE Design Systems, Inc.
+********************************************************************************
+Usage: fastTree [-h | -lib <libName> -cell <cellname> [-view <viewName>] [-cdslib <cdsLibName>] [-file <fileName>] [-log <logFileName>]]
+
+-lib libName              : Library name.
+-cell cellName            : CellView name.
+-view viewName            : View name.
+                            The default view name is "layout".
+-cdslib cdsLibName        : Path of cds.lib file.
+                            The default is current working directory.
+-file fileName            : File name.
+                            The default file name is "cellName.viewName.tree".
+-log logFileName          : Log file name.
+                            The default logFileName is "fastTree.log"
+-h | -help                : Prints this help message.
+
