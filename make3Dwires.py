@@ -214,7 +214,7 @@ def make3Dwires(width, thickness, height, metal, sublayer, flag):
 	else:
 		name = "wire"
 
-	filename = "{}_{}_{}_W{}_T{}_H{}_makeTest".format(name, directory, sublayer, parseWidth, parseThickness, parseHeight)
+	filename = "{}_{}_{}_W{}_T{}_H{}_newTest".format(name, directory, sublayer, parseWidth, parseThickness, parseHeight)
 
     # create an empty wire object
 	wire = Wire(width, thickness, height, metal, sublayer, 0)
