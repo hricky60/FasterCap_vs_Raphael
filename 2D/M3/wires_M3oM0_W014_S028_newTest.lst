@@ -1,0 +1,259 @@
+* 2D
+*
+*
+*
+* Dielectrics
+*=========================
+*
+*
+* M3_4 Dielectric
+*
+D dielectric_M3_4_W028_T005_newTest_top.txt		2.9e-6 4.9e-6		-0.350 1.740			-0.340 1.750 -
+D dielectric_M3_4_W014_T005_newTest_top.txt		2.9e-6 4.9e-6		-0.630 1.740			-0.620 1.750 -
+D dielectric_M3_4_W014_T005_newTest_top.txt		2.9e-6 4.9e-6		-0.910 1.740			-0.900 1.750 -
+D dielectric_M3_4_W895_T005_newTest_top.txt		2.9e-6 4.9e-6		-10.000 1.740			-9.990 1.750 -
+D dielectric_M3_4_W028_T005_newTest_top.txt		2.9e-6 4.9e-6		0.070 1.740			0.080 1.750 -
+D dielectric_M3_4_W014_T005_newTest_top.txt		2.9e-6 4.9e-6		0.490 1.740			0.500 1.750 -
+D dielectric_M3_4_W923_T005_newTest_top.txt		2.9e-6 4.9e-6		0.770 1.740			0.780 1.750 -
+D dielectric_M3_4_W200_T005_newTest_sides.txt		1.0e-6 4.9e-6		-10.000 1.740			-9.990 1.750 -
+D dielectric_M3_4_W028_T005_newTest_bottom.txt		4.4e-6 4.9e-6		-0.350 1.740			-0.340 1.750 -
+D dielectric_M3_4_W014_T005_newTest_bottom.txt		4.4e-6 4.9e-6		-0.630 1.740			-0.620 1.750 -
+D dielectric_M3_4_W014_T005_newTest_bottom.txt		4.4e-6 4.9e-6		-0.910 1.740			-0.900 1.750 -
+D dielectric_M3_4_W895_T005_newTest_bottom.txt		4.4e-6 4.9e-6		-10.000 1.740			-9.990 1.750 -
+D dielectric_M3_4_W028_T005_newTest_bottom.txt		4.4e-6 4.9e-6		0.070 1.740			0.080 1.750 -
+D dielectric_M3_4_W014_T005_newTest_bottom.txt		4.4e-6 4.9e-6		0.490 1.740			0.500 1.750 -
+D dielectric_M3_4_W923_T005_newTest_bottom.txt		4.4e-6 4.9e-6		0.770 1.740			0.780 1.750 -
+*
+*
+*
+* M3_5 Dielectric
+*
+D dielectric_M3_5_W028_T02_newTest_top.txt		4.4e-6 2.9e-6		-0.350 1.790			-0.340 1.800 -
+D dielectric_M3_5_W014_T02_newTest_top.txt		4.4e-6 2.9e-6		-0.630 1.790			-0.620 1.800 -
+D dielectric_M3_5_W014_T02_newTest_top.txt		4.4e-6 2.9e-6		-0.910 1.790			-0.900 1.800 -
+D dielectric_M3_5_W895_T02_newTest_top.txt		4.4e-6 2.9e-6		-10.000 1.790			-9.990 1.800 -
+D dielectric_M3_5_W028_T02_newTest_top.txt		4.4e-6 2.9e-6		0.070 1.790			0.080 1.800 -
+D dielectric_M3_5_W014_T02_newTest_top.txt		4.4e-6 2.9e-6		0.490 1.790			0.500 1.800 -
+D dielectric_M3_5_W923_T02_newTest_top.txt		4.4e-6 2.9e-6		0.770 1.790			0.780 1.800 -
+D dielectric_M3_5_W200_T02_newTest_sides.txt		1.0e-6 2.9e-6		-10.000 1.790			-9.990 1.800 -
+*
+*
+*
+* M3_6 Dielectric
+*
+D dielectric_M3_6_W028_T005_newTest_top.txt		4.9e-6 4.4e-6		-0.350 1.990			-0.340 2.000 -
+D dielectric_M3_6_W014_T005_newTest_top.txt		4.9e-6 4.4e-6		-0.630 1.990			-0.620 2.000 -
+D dielectric_M3_6_W014_T005_newTest_top.txt		4.9e-6 4.4e-6		-0.910 1.990			-0.900 2.000 -
+D dielectric_M3_6_W895_T005_newTest_top.txt		4.9e-6 4.4e-6		-10.000 1.990			-9.990 2.000 -
+D dielectric_M3_6_W028_T005_newTest_top.txt		4.9e-6 4.4e-6		0.070 1.990			0.080 2.000 -
+D dielectric_M3_6_W014_T005_newTest_top.txt		4.9e-6 4.4e-6		0.490 1.990			0.500 2.000 -
+D dielectric_M3_6_W923_T005_newTest_top.txt		4.9e-6 4.4e-6		0.770 1.990			0.780 2.000 -
+D dielectric_M3_6_W200_T005_newTest_sides.txt		1.0e-6 4.4e-6		-10.000 1.990			-9.990 2.000 -
+*
+*
+*
+*
+*
+* Metals
+* ===========================
+*
+*
+* W0
+*
+C wire_M3_4_W014_T005_newTest_bottom.txt		4.4e-6		-1.050 1.740 +
+C wire_M3_4_W014_T005_newTest_sides.txt		4.9e-6		-1.050 1.740 +
+C wire_M3_5_W014_T02_newTest_sides.txt		2.9e-6		-1.050 1.790 +
+C wire_M3_6_W014_T005_newTest_sides.txt		4.4e-6		-1.050 1.990 +
+C wire_M3_6_W014_T005_newTest_top.txt		4.9e-6		-1.050 1.990
+*
+*
+*
+* W1
+*
+C wire_M3_4_W014_T005_newTest_bottom.txt		4.4e-6		-0.770 1.740 +
+C wire_M3_4_W014_T005_newTest_sides.txt		4.9e-6		-0.770 1.740 +
+C wire_M3_5_W014_T02_newTest_sides.txt		2.9e-6		-0.770 1.790 +
+C wire_M3_6_W014_T005_newTest_sides.txt		4.4e-6		-0.770 1.990 +
+C wire_M3_6_W014_T005_newTest_top.txt		4.9e-6		-0.770 1.990
+*
+*
+*
+* W2
+*
+C wire_M3_4_W014_T005_newTest_bottom.txt		4.4e-6		-0.490 1.740 +
+C wire_M3_4_W014_T005_newTest_sides.txt		4.9e-6		-0.490 1.740 +
+C wire_M3_5_W014_T02_newTest_sides.txt		2.9e-6		-0.490 1.790 +
+C wire_M3_6_W014_T005_newTest_sides.txt		4.4e-6		-0.490 1.990 +
+C wire_M3_6_W014_T005_newTest_top.txt		4.9e-6		-0.490 1.990
+*
+*
+*
+* W3
+*
+C wire_M3_4_W014_T005_newTest_bottom.txt		4.4e-6		-0.070 1.740 +
+C wire_M3_4_W014_T005_newTest_sides.txt		4.9e-6		-0.070 1.740 +
+C wire_M3_5_W014_T02_newTest_sides.txt		2.9e-6		-0.070 1.790 +
+C wire_M3_6_W014_T005_newTest_sides.txt		4.4e-6		-0.070 1.990 +
+C wire_M3_6_W014_T005_newTest_top.txt		4.9e-6		-0.070 1.990
+*
+*
+*
+* W4
+*
+C wire_M3_4_W014_T005_newTest_bottom.txt		4.4e-6		0.350 1.740 +
+C wire_M3_4_W014_T005_newTest_sides.txt		4.9e-6		0.350 1.740 +
+C wire_M3_5_W014_T02_newTest_sides.txt		2.9e-6		0.350 1.790 +
+C wire_M3_6_W014_T005_newTest_sides.txt		4.4e-6		0.350 1.990 +
+C wire_M3_6_W014_T005_newTest_top.txt		4.9e-6		0.350 1.990
+*
+*
+*
+* W5
+*
+C wire_M3_4_W014_T005_newTest_bottom.txt		4.4e-6		0.630 1.740 +
+C wire_M3_4_W014_T005_newTest_sides.txt		4.9e-6		0.630 1.740 +
+C wire_M3_5_W014_T02_newTest_sides.txt		2.9e-6		0.630 1.790 +
+C wire_M3_6_W014_T005_newTest_sides.txt		4.4e-6		0.630 1.990 +
+C wire_M3_6_W014_T005_newTest_top.txt		4.9e-6		0.630 1.990
+*
+*
+*
+* Over Metal
+*
+C ../M0/wire_M0_0_W200_T10_newTest_bottom.txt		1.0e-6		-10.000 -1.000 +
+C ../M0/wire_M0_0_W200_T10_newTest_sides.txt		1.0e-6		-10.000 -1.000 +
+C ../M0/wire_M0_0_W200_T10_newTest_top.txt		4.1e-6		-10.000 -1.000
+*
+*
+*
+*
+*
+* Process Stack
+* ===========================
+*
+*
+* P1 Dielectric
+*
+D ../P1/dielectric_P1_1_W200_T025_newTest_sides.txt		1.0e-6 4.1e-6		-10.000 0.0			-9.990 0.01 -
+D ../P1/dielectric_P1_1_W200_T025_newTest_top.txt		7.0e-6 4.1e-6		-10.000 0.0			-9.990 0.01 -
+*
+*
+*
+* M1_1 Dielectric
+*
+D ../M1/dielectric_M1_1_W200_T005_newTest_sides.txt		1.0e-6 7.0e-6		-10.000 0.250			-9.990 0.260 -
+D ../M1/dielectric_M1_1_W200_T005_newTest_top.txt		4.3e-6 7.0e-6		-10.000 0.250			-9.990 0.260 -
+*
+*
+*
+* M1_2 Dielectric
+*
+D ../M1/dielectric_M1_2_W200_T035_newTest_sides.txt		1.0e-6 4.3e-6		-10.000 0.300			-9.990 0.310 -
+D ../M1/dielectric_M1_2_W200_T035_newTest_top.txt		4.3e-6 4.3e-6		-10.000 0.300			-9.990 0.310 -
+*
+*
+*
+* M1_3 Dielectric
+*
+D ../M1/dielectric_M1_3_W200_T005_newTest_sides.txt		1.0e-6 4.3e-6		-10.000 0.650			-9.990 0.660 -
+D ../M1/dielectric_M1_3_W200_T005_newTest_top.txt		4.9e-6 4.3e-6		-10.000 0.650			-9.990 0.660 -
+*
+*
+*
+* M1_4 Dielectric
+*
+D ../M1/dielectric_M1_4_W200_T005_newTest_sides.txt		1.0e-6 4.9e-6		-10.000 0.700			-9.990 0.710 -
+D ../M1/dielectric_M1_4_W200_T005_newTest_top.txt		4.1e-6 4.9e-6		-10.000 0.700			-9.990 0.710 -
+*
+*
+*
+* M1_5 Dielectric
+*
+D ../M1/dielectric_M1_5_W200_T015_newTest_sides.txt		1.0e-6 4.1e-6		-10.000 0.750			-9.990 0.760 -
+D ../M1/dielectric_M1_5_W200_T015_newTest_top.txt		4.9e-6 4.1e-6		-10.000 0.750			-9.990 0.760 -
+*
+*
+*
+* M2_1 Dielectric
+*
+D ../M2/dielectric_M2_1_W200_T005_newTest_sides.txt		1.0e-6 4.9e-6		-10.000 0.900			-9.990 0.910 -
+D ../M2/dielectric_M2_1_W200_T005_newTest_top.txt		2.9e-6 4.9e-6		-10.000 0.900			-9.990 0.910 -
+*
+*
+*
+* M2_2 Dielectric
+*
+D ../M2/dielectric_M2_2_W200_T02_newTest_sides.txt		1.0e-6 2.9e-6		-10.000 0.950			-9.990 0.960 -
+D ../M2/dielectric_M2_2_W200_T02_newTest_top.txt		4.4e-6 2.9e-6		-10.000 0.950			-9.990 0.960 -
+*
+*
+*
+* M2_3 Dielectric
+*
+D ../M2/dielectric_M2_3_W200_T002_newTest_sides.txt		1.0e-6 4.4e-6		-10.000 1.150			-9.990 1.160 -
+D ../M2/dielectric_M2_3_W200_T002_newTest_top.txt		4.9e-6 4.4e-6		-10.000 1.150			-9.990 1.160 -
+*
+*
+*
+* M2_4 Dielectric
+*
+D ../M2/dielectric_M2_4_W200_T005_newTest_sides.txt		1.0e-6 4.9e-6		-10.000 1.170			-9.990 1.180 -
+D ../M2/dielectric_M2_4_W200_T005_newTest_top.txt		2.9e-6 4.9e-6		-10.000 1.170			-9.990 1.180 -
+*
+*
+*
+* M2_5 Dielectric
+*
+D ../M2/dielectric_M2_5_W200_T02_newTest_sides.txt		1.0e-6 2.9e-6		-10.000 1.220			-9.990 1.230 -
+D ../M2/dielectric_M2_5_W200_T02_newTest_top.txt		4.4e-6 2.9e-6		-10.000 1.220			-9.990 1.230 -
+*
+*
+*
+* M2_6 Dielectric
+*
+D ../M2/dielectric_M2_6_W200_T005_newTest_sides.txt		1.0e-6 4.4e-6		-10.000 1.420			-9.990 1.430 -
+D ../M2/dielectric_M2_6_W200_T005_newTest_top.txt		4.9e-6 4.4e-6		-10.000 1.420			-9.990 1.430 -
+*
+*
+*
+* M3_1 Dielectric
+*
+D dielectric_M3_1_W200_T005_newTest_sides.txt		1.0e-6 4.9e-6		-10.000 1.470			-9.990 1.480 -
+D dielectric_M3_1_W200_T005_newTest_top.txt		2.9e-6 4.9e-6		-10.000 1.470			-9.990 1.480 -
+*
+*
+*
+* M3_2 Dielectric
+*
+D dielectric_M3_2_W200_T02_newTest_sides.txt		1.0e-6 2.9e-6		-10.000 1.520			-9.990 1.530 -
+D dielectric_M3_2_W200_T02_newTest_top.txt		4.4e-6 2.9e-6		-10.000 1.520			-9.990 1.530 -
+*
+*
+*
+* M3_3 Dielectric
+*
+D dielectric_M3_3_W200_T002_newTest_sides.txt		1.0e-6 4.4e-6		-10.000 1.720			-9.990 1.730 -
+*
+*
+*
+* M4_1 Dielectric
+*
+D ../M4/dielectric_M4_1_W200_T005_newTest_sides.txt		1.0e-6 4.9e-6		-10.000 2.040			-9.990 2.050 -
+D ../M4/dielectric_M4_1_W200_T005_newTest_top.txt		2.9e-6 4.9e-6		-10.000 2.040			-9.990 2.050 -
+*
+*
+*
+* M4_2 Dielectric
+*
+D ../M4/dielectric_M4_2_W200_T02_newTest_sides.txt		1.0e-6 2.9e-6		-10.000 2.090			-9.990 2.100 -
+D ../M4/dielectric_M4_2_W200_T02_newTest_top.txt		4.4e-6 2.9e-6		-10.000 2.090			-9.990 2.100 -
+*
+*
+*
+* M4_3 Dielectric
+*
+D ../M4/dielectric_M4_3_W200_T002_newTest_sides.txt		1.0e-6 4.4e-6		-10.000 2.290			-9.990 2.300 -
+D ../M4/dielectric_M4_3_W200_T002_newTest_top.txt		1.0e-6 4.4e-6		-10.000 2.290			-9.990 2.300 -
+*
+*
+*

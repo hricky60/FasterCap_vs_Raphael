@@ -1,0 +1,6 @@
+0 0.28x0.05um box
+* Layer of box: Metal 3_6
+* face name	| coordinates of one segment
+*
+* top face
+S dielectric_M3		0.0 0.05  0.28 0.05

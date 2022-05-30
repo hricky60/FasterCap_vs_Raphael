@@ -1,0 +1,6 @@
+0 0.14x0.2um box
+* Layer of box: Metal 3_5
+* face name	| coordinates of one segment
+*
+* top face
+S wire_M3		0.0 0.2  0.14 0.2
